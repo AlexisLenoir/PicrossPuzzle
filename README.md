@@ -10,6 +10,7 @@ To generate a new puzzle, we follow the steps:
 2. transform to shade of gray image (0->255)
 3. apply a median filter to reduce noises
 4. transform to black and white image with a special threshold 
-5. check if this puzzle deducted is solvalbe by the solver, otherwise modify the puzzle until it become solvable (add black cell) 
+5. check if this puzzle deducted is solvable by the solver, otherwise modify the puzzle until it become solvable (add black cell) 
+### the different steps 
 ![images to explain the image processing](doc/image_processing.png)
 

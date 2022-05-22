@@ -1,5 +1,5 @@
 # PicrossPuzzle
-The goals of this project is (1) to create a efficient solver for picross puzzle with the dynamic programming, (2) an interface to play with JavaFx, the possibility to load a puzzle with a text format or an image (3), indeed the possibility to generate a new puzzle from an image chosen by users.
+The goals of this project is (1) to create a efficient solver for picross puzzle with the dynamic programming, (2) an interface to play with JavaFx, the possibility to load a puzzle with a text format or an image, (3) indeed the possibility to generate a new puzzle from an image chosen by users.
 
 ![image of the menu](doc/menu.png)
 ## An special interface for playing 

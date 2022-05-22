@@ -5,7 +5,7 @@ The goals of this project is (1) to create a efficient solver for picross puzzle
 ## An special interface for playing 
 ![image of the interface for gaming](doc/game_interface.png)
 ## Generation of new picross puzzle from an image
-For generate a new puzzle, we follow the steps:
+To generate a new puzzle, we follow the steps:
 1. change the dimension of the image
 2. transform to shade of gray image (0->255)
 3. apply a median filter to reduce noises
